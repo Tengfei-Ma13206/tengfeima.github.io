@@ -23,19 +23,19 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Tengfei Ma"
+  pronouns         : "he/him" # example: "she/her"  
+  bio              : "Bachelor in Electronic Information Engineering, The Chinese University of Hong Kong, Shenzhen."
+  location         : "Shenzhen, Guangdong, China"
+  # employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "121090406@link.cuhk.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=-mtM0J8AAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0000-1719-8613"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
@@ -57,9 +57,9 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "https://www.instagram.com/tengfeima13206"
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/tengfeima13206/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -67,13 +67,13 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : "https://x.com/tengfeima13206"
   vine             : # Username
-  weibo            : # Username
+  weibo            : "https://weibo.com/u/6094938614"
   wikipedia        : # Username
   xing             : # Username
-  youtube          : # Username
-  zhihu            : # Username
+  youtube          : "https://www.youtube.com/@tengfeima13206"
+  zhihu            : "https://www.zhihu.com/people/shu-zhu-zhu-zhu-xue"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:

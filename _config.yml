@@ -45,21 +45,21 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/Tengfei-Ma13206"
+  github           : "Tengfei-Ma13206"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : "https://www.facebook.com/profile.php?id=61572661246526&sk=about"
+  # bluesky          : "bsky.app" # Replace this with you Bluesky username
+  facebook         : "tengfeima13206"
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "https://www.instagram.com/tengfeima13206"
+  instagram        : "tengfeima13206"
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/tengfeima13206/"
+  linkedin         : "tengfeima13206/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -67,13 +67,13 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "https://x.com/tengfeima13206"
+  twitter          : "tengfeima13206"
   vine             : # Username
-  weibo            : "https://weibo.com/u/6094938614"
+  weibo            : "6094938614"
   wikipedia        : # Username
   xing             : # Username
-  youtube          : "https://www.youtube.com/@tengfeima13206"
-  zhihu            : "https://www.zhihu.com/people/shu-zhu-zhu-zhu-xue"
+  youtube          : "@tengfeima13206"
+  zhihu            : "shu-zhu-zhu-zhu-xue"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
